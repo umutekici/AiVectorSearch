@@ -1,0 +1,10 @@
+﻿Nike Air Zoom Pegasus	Hafif ve rahat, yaz ayları için mükemmel koşu ayakkabısı.
+Adidas Ultraboost	Günlük kullanım ve koşu için ultra konforlu spor ayakkabı.
+Puma Smash V2	Klasik tarza sahip, günlük kullanım için tasarlanmış spor ayakkabı.
+Skechers Go Walk	Yumuşak tabanlı, yürüyüşler için ideal hafif ayakkabı.
+Timberland Bot	Su geçirmez, kışlık outdoor bot.
+Converse Chuck Taylor	Şehir hayatı için ikonik tasarımlı spor ayakkabı.
+Reebok Nano X	Ağırlık çalışmaları ve crossfit için dayanıklı spor ayakkabı.
+Columbia Sandalet	Yaz yürüyüşleri ve doğa gezileri için açık sandalet.
+New Balance 574	Klasik ve rahat, şehir içinde günlük kullanım için uygun.
+Vans Old Skool	Kaykaycılar ve sokak modası sevenler için spor ayakkabı.
